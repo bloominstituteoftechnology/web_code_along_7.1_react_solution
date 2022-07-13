@@ -1,4 +1,4 @@
-# Code-Along 7.1 - React
+# Code-Along 7.1 - API Errors
 
 ## Requirements
 
